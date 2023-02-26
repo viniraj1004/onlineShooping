@@ -1,0 +1,122 @@
+.border-bottom{
+    border-bottom: 1px solid grey;
+}
+
+.padding-bottom{
+    padding-bottom: 10px;
+}
+
+.margin-top{
+    margin-top: 50px;
+}
+
+.pad-top{
+    padding-top: 10px;
+}
+.card-link{
+    color: #3594f2 !important;
+}
+
+.padd-bot{
+    padding-bottom: 24px !important;
+}
+
+.padding-bot{
+    padding-bottom: 48px !important;
+}
+
+.margin-bot{
+    margin-bottom: 48px !important;
+}
+
+.border-top-bottom{
+    border: 1px solid rgb(206, 203, 203);
+    box-shadow: inset 0 0.5em 1.5em rgb(0 0 0 / 10%), inset 0 0.125em 0.5em rgb(0 0 0 / 15%);
+    height: 3rem;
+    background-color: rgb(198, 197, 197);
+}
+
+.marg-top{
+    margin-top: 50px;
+}
+
+.container1{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.product-marg-top-bottom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.margin-bottom1{
+    margin-bottom: 60px;
+}
+
+.text-align1{
+    text-align: right !important;
+}
+
+.product-caption{
+    text-align: center !important;
+}
+
+.product-padd-bottom{
+    padding-bottom: 15px !important;
+}
+
+.product-color{
+    color: darkblue !important;
+}
+
+.product-text-size{
+    font-size: 16px;
+}
+
+.product-top-left-radius{
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.product-image-height{
+    height: 354px !important;
+}
+
+.text-align2{
+    text-align: center !important;
+}
+
+.padding-top1{
+    padding-top: 85px;
+}
+
+.text-size2{
+    font-size: 24px;
+}
+
+.font-family1{
+    font-family:'Times New Roman', Times, serif;
+}
+
+.padd-left1{
+    padding-left: 20px;
+}
+
+.back-color1{
+    background-image: linear-gradient(rgb(117 104 235), rgb(201 229 242));
+}
+
+.navbar-brand{
+    color: white !important;
+}
+
+.max-width1{
+    max-width: 1150px;
+}
+
+.nav-pad{
+    padding-left: 25px;
+    padding-right: 25px;
+}
