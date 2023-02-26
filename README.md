@@ -9,7 +9,9 @@ Run `npm start` for a dev server. Navigate to `http://localhost:9001/`.
 ## Local stetup
 
 Clone repo - https://github.com/viniraj1004/onlineShooping/
+
 Run `npm Install` for npm packages installation.
+
 Run `npm start' for run server.
 
 ## Design Pages
