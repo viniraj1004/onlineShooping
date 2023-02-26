@@ -4,7 +4,13 @@ This project was generated with [Bootstrap](https://getbootstrap.com/docs/5.0/ge
 
 ## Development server
 
-Run `npm start` for a dev server. Navigate to `http://localhost:9001/`. T
+Run `npm start` for a dev server. Navigate to `http://localhost:9001/`. 
+
+## Local stetup
+
+Clone repo - https://github.com/viniraj1004/onlineShooping/
+Run `npm Install` for npm packages installation.
+Run `npm start' for run server.
 
 ## Design Pages
 
