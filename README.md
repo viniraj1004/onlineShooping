@@ -8,7 +8,7 @@ Run `npm start` for a dev server. Navigate to `http://localhost:9001/`.
 
 ## Local stetup
 
-Clone repo - https://github.com/viniraj1004/onlineShooping/
+Clone repo - https://github.com/viniraj1004/onlineShopping/
 
 Run `npm Install` for npm packages installation.
 
